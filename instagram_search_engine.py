@@ -35,7 +35,7 @@ for uid in profiles:
 
 # print(inverted_index)
 
-print(inverted_index['model'])
+# print(inverted_index['model'])
 # document frequency = number of docs containing a specific word, dictionary with key = word, value = num of docs
 df = {}
 # inverse document frequency

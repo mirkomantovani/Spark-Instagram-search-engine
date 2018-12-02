@@ -11,7 +11,7 @@ sys.path.append('/usr/lib/spark/python/lib/py4j-0.9-src.zip')
 
 # Rerun to clear space (ctrl+F5), select all above this and execute in console option+shift+E, and go on execution in
 # console the code
-from pyspark import SparkContext
+from pyspark import SparkContextfi
 from pyspark import HiveContext
 from preprocess import *
 import math
